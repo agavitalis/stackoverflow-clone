@@ -2,7 +2,7 @@
   "name": "stackoverflow-ng",
   "version": "1.0.0",
   "description": "A stackoverflow-lite built on node express",
-  "main": "index.js",
+  "main": "routes/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
