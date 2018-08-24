@@ -37,6 +37,15 @@ cd  stackoverflow-ng
 ```sh
 npm  install
 
+
+```
+
+This will install all the dependencies and dev dependencies
+
+```sh
+npm  start
+
+
 ```
 
 The project will be live on port 3500, hence can be accessed using Localhost:3500
